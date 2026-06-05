@@ -14,4 +14,3 @@
 
 *Maintained by [@horrister](https://github.com/horrister)*
 
-Log4Shell (CVE-2021-44228) 
