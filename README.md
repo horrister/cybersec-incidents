@@ -8,6 +8,7 @@
 | [BeyondTrust Privilege Management for Windows (CVE-2026-1232)](./../../../beyondtrust-cve-2026-1232/) |  Anti-Tamper Bypass | 🟠 Medium | Feb 1, 2026 | ✅ Complete |
 | [MOVEIT Transfer Vulnerability (CVE-2023-34362)](./../../../moveit-transfer-cve-2023-34362/) | Zero-day SQL Injection  | 🔴 Critical | May 31, 2023| 🚧 In Progress |
 | [Colonial Pipeline — DarkSide Ransomware Incident](./../../../colonial-pipeline-darkside-cyberattack/) | Ransomware | 🔴 Critical | May 6, 2021 | 🚧 In Progress |
+| T.B.A. | N/A | 🔴 Critical | N/A | 📝 Planned |
 
 **Status:** ✅ Complete / 🚧 In Progress / 📝 Planned
 
