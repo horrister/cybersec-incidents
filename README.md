@@ -7,7 +7,7 @@
 | [Log4Shell (CVE-2021-44228)](./../../../log4shell-cve-2021-44228/) | Zero-day RCE | 🔴 Critical | Nov 24, 2021 | ✅ Complete |
 | [BeyondTrust Privilege Management for Windows (CVE-2026-1232)](./../../../beyondtrust-cve-2026-1232/) |  Anti-Tamper Bypass | 🟠 Medium | Feb 1, 2026 | ✅ Complete |
 | [MOVEIT Transfer Vulnerability (CVE-2023-34362)](./../../../moveit-transfer-cve-2023-34362/) | Zero-day SQL Injection  | 🔴 Critical | May 31, 2023| 🚧 In Progress |
-| [Colonial Pipeline — DarkSide Ransomware Incident](./../../../colonial-pipeline-darkside-cyberattack/) | Ransomware | 🔴 Critical | May 6, 2021 | 🚧 In Progress |
+| [Colonial Pipeline — DarkSide Ransomware Incident](./../../../colonial-pipeline-darkside-cyberattack/) | Ransomware | 🔴 Critical | May 6, 2021 | ✅ Complete |
 | T.B.A. | N/A | 🔴 Critical | N/A | 📝 Planned |
 
 **Status:** ✅ Complete / 🚧 In Progress / 📝 Planned
